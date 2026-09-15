@@ -63,7 +63,3 @@ Lista_2_Estruturas_Condicionais/
 - Entrada de dados com `scanf`
 - Saída de dados com `printf`
 - Cálculos e estruturas condicionais
-
-## Observação
-
-Os programas foram mantidos de forma simples, de acordo com os conteúdos trabalhados até o momento na disciplina.
